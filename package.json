@@ -1,0 +1,14 @@
+{
+  "name": "nginx",
+  "version": "1.0.0",
+  "main": "app.js",
+  "author": "Sourab Hossain",
+  "description": "A simple nginx server",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
